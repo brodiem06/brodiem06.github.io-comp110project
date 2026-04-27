@@ -18,13 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Brodie McCartan, undergraduate sophomore neuroscience major and journalism minor at UNC
+title: COMP 110 course survey data exploration
 email: brodiem@unc.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  This website addresses my idea that COMP 110 lectures should contain more examples of basic python coding principles
-  to account for the portion of students that go into with little to no coding experience. Here, I create and analyze various data visuals 
-  from our course survey, looking at how many students enter the course with limited experience, as well as how experience relates to 
-  ratings of lecture effectiveness and understanding.  
+ This website addresses my idea that COMP 110 lectures should contain more examples of basic python coding principles to account for the portion of students that go into with little to no coding experience. Here, I create and analyze various data visuals from our course survey, looking at how many students enter the course with limited experience, as well as how experience relates to ratings of lecture effectiveness and understanding.  
 baseurl: "/brodiem06.github.io-comp110project/" # the subpath of your site, e.g. /blog
 url: "brodiem06.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: brodiemccartan
