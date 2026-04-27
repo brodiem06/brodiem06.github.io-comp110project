@@ -18,16 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Brodie McCartan, undergraduate sophomore neuroscience major and journalism minor at UNC
+email: brodiem@unc.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+  This website addresses my idea that COMP 110 lectures should contain more examples of basic python coding principles
+  to account for the portion of students that go into with little to no coding experience. Here, I create and analyze various data visuals 
+  from our course survey, looking at how many students enter the course with limited experience, as well as how experience relates to 
+  ratings of lecture effectiveness and understanding.  
+baseurl: "/brodiem06.github.io-comp110project/" # the subpath of your site, e.g. /blog
+url: "brodiem06.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: brodiemccartan
+github_username:  brodiem06
 
 # Build settings
 # Build settings
